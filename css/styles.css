@@ -86,7 +86,7 @@ a {
     rgba(4, 143, 168, .5),
     rgba(4, 143, 168, 1)
   ),
-  url('/images/bg.jpg');
+  url('../images/bg.jpg');
   background-size: cover;
 }
 
